@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Actividad_Linear_layout"
+            android:label="@string/title_activity_actividad__linear_layout" >
+        </activity>
+        <activity
+            android:name=".Actividad_table_layout"
+            android:label="@string/title_activity_actividad_table_layout" >
+        </activity>
+        <activity
+            android:name=".Actividad_grid_layout"
+            android:label="@string/title_activity_actividad_grid_layout" >
+        </activity>
+        <activity
+            android:name=".Actividad_relative_layout"
+            android:label="@string/title_activity_actividad_relative_layout" >
+        </activity>
     </application>
 
 </manifest>
