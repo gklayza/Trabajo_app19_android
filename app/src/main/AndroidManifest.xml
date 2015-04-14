@@ -32,6 +32,22 @@
             android:name=".Actividad_relative_layout"
             android:label="@string/title_activity_actividad_relative_layout" >
         </activity>
+        <activity
+            android:name=".Actividad_botones"
+            android:label="@string/title_activity_actividad_botones" >
+        </activity>
+        <activity
+            android:name=".Actividad_toggleButton"
+            android:label="@string/title_activity_actividad_toggle_button" >
+        </activity>
+        <activity
+            android:name=".Actividad_texto_imagen"
+            android:label="@string/title_activity_actividad_texto_imagen" >
+        </activity>
+        <activity
+            android:name=".Actividad_checkbox"
+            android:label="@string/title_activity_actividad_checkbox" >
+        </activity>
     </application>
 
 </manifest>
